@@ -44,11 +44,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output:
-![WhatsApp Image 2024-01-01 at 19 03 55_e738757a](https://github.com/AnnaLahari/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/149365425/6788ee1d-1993-49dd-8117-1356c85a2eec)
+![image](https://github.com/AnnaLahari/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/149365425/afe6305e-6c61-43ad-acee-5bd4540d09bb)
 
-![WhatsApp Image 2024-01-01 at 19 04 20_98cb03ec](https://github.com/AnnaLahari/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/149365425/c160df37-b7b6-4183-8a6e-a1e0fd0a37cc)
+![image](https://github.com/AnnaLahari/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/149365425/5a28f05a-8129-4d03-88fb-140a91c8e1f7)
 
-![WhatsApp Image 2024-01-01 at 19 04 35_59719ab3](https://github.com/AnnaLahari/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/149365425/06c16f2c-8fc1-4efd-80f2-31009a643919)
+![image](https://github.com/AnnaLahari/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/149365425/6f320cba-3e2a-4e3b-9c22-4be891261908)
 
 ### Name:A.Lahari
 ### Register Number: 212223230111
